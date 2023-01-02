@@ -93,7 +93,7 @@ namespace ProyectoIOT_DiegoPerez
             {
                 httpResponse.EnsureSuccessStatusCode();
             }
-            catch (Exception)
+            catch 
             {
                 Frame.Navigate(typeof(Login), "Credenciales no válidas");
             }

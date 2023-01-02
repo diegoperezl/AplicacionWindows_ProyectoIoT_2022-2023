@@ -1,1 +1,1 @@
-C:\Users\bragg\source\repos\ProyectoIOT_DiegoPerez\ProyectoIOT_DiegoPerez\ProyectoIOT_DiegoPerez.csproj;x86
+C:\Users\bragg\source\repos\ProyectoIOT_DiegoPerez\AplicacionWindows_ProyectoIoT_2022-2023\ProyectoIOT_DiegoPerez\ProyectoIOT_DiegoPerez.csproj;x86

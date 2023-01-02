@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MCsE/9BerqT7BNBugTrPrAXaVrkOywJszXOObxp32tgtPt7iQ9rQ8uRG+0+PfSEooq2I1vO/SSQu79Ksn/hpVA==",
+  "dgSpecHash": "I/3SXYtN7jwsY5jy+kQXm1L/xFuYD1aU4CmQyzJU06A63E5Ak6jG8wM1ZF8+X6QeIwG6o0IExihyjuM77KAhOg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bragg\\source\\repos\\ProyectoIOT_DiegoPerez\\ProyectoIOT_DiegoPerez\\ProyectoIOT_DiegoPerez.csproj",
+  "projectFilePath": "C:\\Users\\bragg\\source\\repos\\ProyectoIOT_DiegoPerez\\AplicacionWindows_ProyectoIoT_2022-2023\\ProyectoIOT_DiegoPerez\\ProyectoIOT_DiegoPerez.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bragg\\.nuget\\packages\\dynamiclanguageruntime\\1.3.1\\dynamiclanguageruntime.1.3.1.nupkg.sha512",
     "C:\\Users\\bragg\\.nuget\\packages\\ironpython\\2.7.12\\ironpython.2.7.12.nupkg.sha512",

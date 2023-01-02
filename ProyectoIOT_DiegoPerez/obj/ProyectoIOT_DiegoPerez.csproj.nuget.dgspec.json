@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bragg\\source\\repos\\ProyectoIOT_DiegoPerez\\ProyectoIOT_DiegoPerez\\ProyectoIOT_DiegoPerez.csproj": {}
+    "C:\\Users\\bragg\\source\\repos\\ProyectoIOT_DiegoPerez\\AplicacionWindows_ProyectoIoT_2022-2023\\ProyectoIOT_DiegoPerez\\ProyectoIOT_DiegoPerez.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bragg\\source\\repos\\ProyectoIOT_DiegoPerez\\ProyectoIOT_DiegoPerez\\ProyectoIOT_DiegoPerez.csproj": {
+    "C:\\Users\\bragg\\source\\repos\\ProyectoIOT_DiegoPerez\\AplicacionWindows_ProyectoIoT_2022-2023\\ProyectoIOT_DiegoPerez\\ProyectoIOT_DiegoPerez.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bragg\\source\\repos\\ProyectoIOT_DiegoPerez\\ProyectoIOT_DiegoPerez\\ProyectoIOT_DiegoPerez.csproj",
+        "projectUniqueName": "C:\\Users\\bragg\\source\\repos\\ProyectoIOT_DiegoPerez\\AplicacionWindows_ProyectoIoT_2022-2023\\ProyectoIOT_DiegoPerez\\ProyectoIOT_DiegoPerez.csproj",
         "projectName": "ProyectoIOT_DiegoPerez",
-        "projectPath": "C:\\Users\\bragg\\source\\repos\\ProyectoIOT_DiegoPerez\\ProyectoIOT_DiegoPerez\\ProyectoIOT_DiegoPerez.csproj",
+        "projectPath": "C:\\Users\\bragg\\source\\repos\\ProyectoIOT_DiegoPerez\\AplicacionWindows_ProyectoIoT_2022-2023\\ProyectoIOT_DiegoPerez\\ProyectoIOT_DiegoPerez.csproj",
         "packagesPath": "C:\\Users\\bragg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bragg\\source\\repos\\ProyectoIOT_DiegoPerez\\ProyectoIOT_DiegoPerez\\obj\\",
+        "outputPath": "C:\\Users\\bragg\\source\\repos\\ProyectoIOT_DiegoPerez\\AplicacionWindows_ProyectoIoT_2022-2023\\ProyectoIOT_DiegoPerez\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
